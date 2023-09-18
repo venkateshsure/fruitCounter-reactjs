@@ -1,0 +1,47 @@
+/* Write your CSS here */
+
+.bg-con {
+  background-color: #ffd569;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cg-con {
+  background-color: #ffffff;
+  width: 60%;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+}
+
+.img-con {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mango-img {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}
+
+.but {
+  color: #ffffff;
+  background-color: #007bff;
+  cursor: pointer;
+  border: 2px solid #007bff;
+  margin-right: 3px;
+}
